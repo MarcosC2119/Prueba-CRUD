@@ -1,3 +1,18 @@
+/**
+ * Página de Añadir Proyecto
+ * 
+ * Este archivo maneja la funcionalidad para añadir nuevos proyectos al portafolio.
+ * Características:
+ * - Formulario para ingresar detalles del proyecto
+ * - Manejo de subida de imágenes
+ * - Validación de campos requeridos
+ * - Almacenamiento en base de datos
+ * - Diseño responsivo usando Tailwind CSS
+ * 
+ * @author Marcos Castro
+ * @version 1.0
+ */
+
 <?php
 include 'auth.php';
 include 'db.php';

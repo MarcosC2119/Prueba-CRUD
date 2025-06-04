@@ -18,4 +18,4 @@ CREATE TABLE proyectos (
 );
 
 -- Usuario de prueba (usuario: admin, contraseña: 123456)
-INSERT INTO users (username, password) VALUES ('admin', MD5('123456'));
+INSERT INTO users (username, password) VALUES ('admin', MD5('admin123'));

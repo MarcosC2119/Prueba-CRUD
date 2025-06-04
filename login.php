@@ -1,3 +1,18 @@
+/**
+ * Página de Inicio de Sesión
+ * 
+ * Este archivo maneja la autenticación y funcionalidad de inicio de sesión.
+ * Proporciona una interfaz de formulario de inicio de sesión y procesa las credenciales del usuario.
+ * Características:
+ * - Autenticación de usuario con nombre de usuario y contraseña
+ * - Gestión de sesiones
+ * - Manejo de errores para credenciales inválidas
+ * - Diseño responsivo usando Tailwind CSS
+ * 
+ * @author Marcos Castro
+ * @version 1.0
+ */
+
 <?php
 session_start();
 include 'db.php';

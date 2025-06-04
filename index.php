@@ -1,3 +1,18 @@
+/**
+ * Página Principal del Portafolio
+ * 
+ * Este archivo muestra la página principal del portafolio con todos los proyectos.
+ * Características:
+ * - Muestra los proyectos en un diseño de cuadrícula responsivo
+ * - Muestra imágenes, títulos y descripciones de los proyectos
+ * - Proporciona enlaces a GitHub y demos en vivo
+ * - Incluye funcionalidad de edición y eliminación para cada proyecto
+ * - Utiliza Tailwind CSS para el estilo
+ * 
+ * @author Marcos Castro
+ * @version 1.0
+ */
+
 <?php
 include 'auth.php';
 include 'db.php';

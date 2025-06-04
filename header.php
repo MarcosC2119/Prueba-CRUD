@@ -1,3 +1,17 @@
+/**
+ * Encabezado del Sitio
+ * 
+ * Este archivo contiene el encabezado común para todas las páginas del sitio.
+ * Características:
+ * - Configuración básica del HTML y meta tags
+ * - Inclusión de Tailwind CSS y Font Awesome
+ * - Barra de navegación con menú de usuario
+ * - Estilos base y fuentes personalizadas
+ * 
+ * @author Marcos Castro
+ * @version 1.0
+ */
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
